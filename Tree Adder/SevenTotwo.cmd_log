@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/treeader/SevenTotwo.xst" -ofn "E:/treeader/SevenTotwo.syr" 
